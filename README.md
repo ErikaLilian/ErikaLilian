@@ -51,10 +51,7 @@ Nota: Este README proporciona una descripción general del proyecto. Para obtene
 
 ¡No dudes en realizar cualquier pregunta!
 
-[Tu nombre]
-[Fecha]
-
-[Enlace a tu repositorio (si aplica)]
+ELB
 
 [Licencia (si aplica)]
 
